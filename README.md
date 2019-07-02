@@ -1,0 +1,2 @@
+# ml-project-housing-price-predition
+The design of this study starts with carefully studying the data, reading the data dictionary, perform the Exploratory Data Analysis, present meaningful questions whose answers can be obtained from the models, eliminating the unnecessary features before building the models and feeding the data to those models, and finally using those tuned models to answer the main question of the case study.
